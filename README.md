@@ -1,2 +1,3 @@
 # SQL
-SQL Projects
+Project Koel - streaming music platform
+
